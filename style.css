@@ -1,0 +1,19 @@
+.container {
+  margin: 80px 300px;
+}
+
+.myTable {
+    border-collapse: collapse;
+    text-align: center;
+    border: 5px solid;
+  }
+   
+  
+  th,
+  td{
+    padding: 10px;
+    margin: 2rem;
+    border: 1px solid;
+  }
+  
+  
